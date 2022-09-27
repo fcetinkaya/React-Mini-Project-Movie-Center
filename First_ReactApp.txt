@@ -1,0 +1,41 @@
+*NPM UPDATE and NODE.JS UPDATE
+Uzun bir süre güncelleme yapmazsan aşağıdaki metotları kullan.
+
+C:\Program Files (x86)\Nodejs
+C:\Program Files\Nodejs
+C:\Users\{User}\ (All files with node &npm)
+C:\Users\{User}\AppData\Roaming\npm (or %appdata%\npm)
+C:\Users\{User}\AppData\Roaming\npm-cache (or %appdata%\npm-cache)
+C:\Users\{User}\.npmrc (and possibly check for that without the . prefix too)
+C:\Users\{User}\AppData\Local\Temp\npm-*
+
+-	CleanCleaner Regestry Temizle...
+
+-	https://nodejs.org/en/download/current/
+Linkten en son versiyonu yükle...
+
+**********//////////*****-----------*****************
+-	npx clear-npx-cache  > y
+	npx clear-npx-cache ./(Klasör içine yükler) > y
+	
+-	https://omdbapi.com/apikey.aspx adresinde api/restful oluşturulur. (Api Key :b172fe45)
+
+-	Add new file > src(folder)> App.css 
+-	Add new file > src (folder)> search.svg
+https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1
+Linkinden kodları kopyala-yapıştır.
+
+-	Add new file > src >MovieCard.jsx
+
+
+
+
+
+
+
+
+
+
+***********----------///////////**********---------
+Kullanılmayan React kodlarını sürekli kontrol et...
+***********----------///////////**********---------
